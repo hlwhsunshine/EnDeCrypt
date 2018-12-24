@@ -1,4 +1,4 @@
-package com.annotion.ruiyi.endecrypt;
+package com.shuame.rootgenius.sdk.proto;
 
 import java.io.Serializable;
 import java.util.ArrayList;
